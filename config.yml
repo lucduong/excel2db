@@ -1,0 +1,12 @@
+rules:
+  noHeader: true
+  columns:
+    -
+      prop: id
+      index: 0
+    -
+      prop: name
+      index: 1
+    -
+      prop: email
+      index: 2
